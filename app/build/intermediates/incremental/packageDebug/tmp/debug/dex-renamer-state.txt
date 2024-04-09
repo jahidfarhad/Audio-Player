@@ -1,0 +1,4 @@
+#Sat Jul 17 05:16:28 BDT 2021
+base.0=E\:\\Programming\\Android Projects\\AudioPlayer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
